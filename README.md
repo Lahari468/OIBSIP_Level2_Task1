@@ -12,10 +12,12 @@ A sleek, responsive, and fully functional web-based calculator built using HTML,
 - 📌 Operation history display for clarity
 
 ### 🔷 CSS3 Highlights 
+
 - Uses **Flexbox and CSS Grid** for structured, responsive layouts.
 - Includes **smooth hover effects and gradient backgrounds** to enhance the UI experience.
 
 ### 🟨 JavaScript Highlights
+
 - Implements **modular logic using ES6 arrow functions** for operations and utility.
 - Uses **built-in `Math` methods** (`sqrt`, `log10`, `%`) and dynamic DOM manipulation to update the display and operation history in real-time.
 
