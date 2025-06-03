@@ -3,8 +3,6 @@
 
 A sleek, responsive, and fully functional web-based calculator built using HTML, CSS, and JavaScript. This calculator supports basic arithmetic operations along with scientific functions like square root, logarithm, and percentage.
 
----
-
 ## 🚀 Features
 
 - ✅ Basic arithmetic: `+`, `-`, `×`, `÷`
@@ -12,8 +10,6 @@ A sleek, responsive, and fully functional web-based calculator built using HTML,
 - 📱 Responsive design
 - 🎨 Stylish UI with gradients, shadows, and animations
 - 📌 Operation history display for clarity
-
----
 
 ### 🔷 CSS3 Highlights 
 - Uses **Flexbox and CSS Grid** for structured, responsive layouts.
