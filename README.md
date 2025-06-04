@@ -6,7 +6,7 @@ A sleek, responsive, and fully functional web-based calculator built using HTML,
 ## 🚀 Features
 
 - ✅ Basic arithmetic: `+`, `-`, `×`, `÷`
-- 🧠 Scientific functions: square Root (`√`), logarithm (`log`), percentage (`%`)
+- 🧠 Scientific functions: square root (`√`), logarithm (`log`), percentage (`%`)
 - 📱 Responsive design
 - 🎨 Stylish UI with gradients, shadows, and animations
 - 📌 Operation history display for clarity
